@@ -37,4 +37,4 @@ I'm Thibaut, a 17 year old french student. I'm currently studying in a french hi
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 ### 👀 Views
-![Views](https://visitcount.itsvg.in/api?id=UnderscoreThibaut&label=Profile_Views&color=1&icon=5&pretty=true)
+![Views](https://visitcount.itsvg.in/api?id=UnderscoreThibaut&label=Views&color=1&icon=5&pretty=true)
